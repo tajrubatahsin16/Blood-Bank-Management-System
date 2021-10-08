@@ -1,0 +1,9 @@
+Softwares: Netbeans IDE 8.2, Microsoft SQL Server 2018
+
+Steps:
+1) After installation run the tables on the MSSQL server using the 
+   username: sa and password: 123456
+
+2) Then insert data to the tables.
+
+3) Open netbeans and open the project Blood Bank Management System. Run the project. 
